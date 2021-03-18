@@ -1,0 +1,9 @@
+<book id="book001">
+  <author>Salinger, J. D.</author>
+  <country>United States</country><title>The Catcher in the Rye</title>
+  <language>English</language>
+  <publish_date>1951-07-16</publish_date>
+  <publisher>Little, Brown and Company</publisher>
+  <isbn>0-316-76953-3</isbn>
+  <description>A story about a few important days in the life of Holden Caulfield</description>
+<genre>Novel</genre><price>23.95</price></book>
